@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Julia Tsuei</title>  
+    <link rel="stylesheet" href="js_2.css">
+    <!--
+    Julia Tsuei
+
+    Lab 06 
+
+    My Store
+    -->
+    
+</head>        
+    
+
+ <body>
+
+    <h1>Music Store</h1>
+    <div id="table">
+
+    <table>
+        <tr>
+        <th>Instrument</th>
+        <th>Price</th>
+            </tr>
+
+        <tr>
+            <td>Violin</td>
+            <td>400</td>
+        </tr>
+
+        <tr>
+            <td>Piano</td>
+            <td>600</td>
+        </tr>
+        
+        <tr>
+            <td>Viola</td>
+            <td>4700</td>
+        </tr>
+        
+        <tr>
+            <td>Cello</td>
+            <td>800</td>
+        </tr>
+
+        <tr>
+            <td>Bass</td>
+            <td>1200</td>
+        </tr>
+    </table>
+  
+
+</div>
+<br>
+
+<label for="itemInput">Item</label>
+<input type="text" id="itemInput" name="itemInput">
+<br>
+<br>
+<label for="qty">Qty</label>
+<input type="number" id="qty" name="qty">
+<br>
+<br>
+<input type="button" onclick="addItem()" value="Add Item" id="addItem">
+<input type="button" onclick="newOrder()" value="New Order" id="newOrder">
+<br>
+<br>
+
+<div></div>
+
+<h3>Total Due:</h3>
+<h3 id="due">$</h3>
+
+<textarea disabled id="invoice" rows = 20 cols = 50></textarea>
+
+    <script src="js_2.js"></script>
+ </body>   
+</html>

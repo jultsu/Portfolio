@@ -1,0 +1,22 @@
+table{
+    background-color: rgb(228, 228, 228);
+    border: 2px solid rgb(75, 121, 128);
+}
+
+textarea{
+    resize: none;
+    background-color: rgb(168, 231, 231);
+    color: black;
+}
+
+body{
+    background-color: rgb(205, 237, 243);
+}
+
+#addItem{
+    background-color:rgb(158, 226, 226);
+}
+
+#newOrder{
+    background-color: rgb(158, 226, 226);
+}
