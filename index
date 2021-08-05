@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Julia Tsuei</title>  
+    <link rel="stylesheet" href="style.css">
+    <!--
+    Julia Tsuei
+
+    CIS 111
+
+    Portfolio
+    -->
+    
+</head>        
+    
+
+ <body>
+
+    <div class = "home">
+        <h1>Julia Tsuei</h1>
+
+        <input type="button" onclick="aboutMe()" value="About Me" id="aboutMe">
+        <input type="button" onclick="projects()" value="Projects" id="projects">
+    </div>
+    
+
+    <script src = "script.js"></script>
+
+     </body>
+</html>
