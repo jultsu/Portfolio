@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Julia Tsuei</title>  
+    <link rel="stylesheet" href="style.css">
+</head>        
+    
+
+ <body>
+
+    <button id = "homeB" onclick="home()">Home</button>
+
+    <p id="about">Hi, my name is Julia Tsuei and I am a rising sophomore at El Camino high. 
+    I've been learning web design for almost a year and can proficiently code 
+    in HTML, JavaScript, and CSS. Some hobbies I have are drawing, playing my 
+    trumpet and piano, and swimming. When I grow up, I want to work somewhere 
+    in the technology field as a software engineer, web developer, or a data scientist.</p>
+
+    <script src="script.js"></script>
+
+     </body>
+</html>
