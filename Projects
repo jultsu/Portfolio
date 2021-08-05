@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Julia Tsuei</title>  
+    <link rel="stylesheet" href="style.css">
+</head>        
+    
+
+ <body class="projectBody">
+
+    <button id = "homeB2" onclick="home()">Home</button>
+
+    <p class="innerBox">
+    <h2 class="h2one">HTML/CSS</h2>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+        <ol class="olone">
+            <li><a href="file:///C:/Users/123ts/OneDrive/Desktop/CSM%20CS/Portfolio/project%20page/html/html%201/html_1.html" target="_blank">Happy Birthday Message Creator</a></li>
+            <br>
+            <li><a href="file:///C:/Users/123ts/OneDrive/Desktop/CSM%20CS/Portfolio/project%20page/html/html_2.html" target="_blank">Best-selling Video Games</a></li>
+            <br>
+            <li><a href="file:///C:/Users/123ts/OneDrive/Desktop/CSM%20CS/Portfolio/project%20page/html/html_3.html" target="_blank">Product Rating</a></li>
+        </ol>    
+
+        <br>
+
+    <h2 class="h2two">JAVASCRIPT</h2>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+        <ol class="oltwo">
+            <li><a href="file:///C:/Users/123ts/OneDrive/Desktop/CSM%20CS/Portfolio/project%20page/js/js_1.html" target="_blank">Fahrenheit to Celsius Temperature Converter</a></li>
+            <br>
+            <li><a href="file:///C:/Users/123ts/OneDrive/Desktop/CSM%20CS/Portfolio/project%20page/js/js%202/js_2.html" target="_blank">My Music Store</a></li>
+        </ol>      
+        </p>
+
+    <script src="script.js"></script>
+     </body>
+</html>
